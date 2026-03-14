@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" alt="Intro Banner"/>
+<img src="Unique%205120x1440%20Fall%20Wallpaper" width="100%" alt="Intro Banner"/>
 
 <h2 align="center">Hi, I'm Jayant Pachori 👋</h2>
 
