@@ -1,5 +1,4 @@
-<img src="vincentiu-solomon-ln5drpv_ImI-unsplash.jpg
-" width="100%" alt="Intro Banner"/>
+<img src="vincentiu-solomon-ln5drpv_ImI-unsplash.jpg" width="100%" alt="Intro Banner"/>
 
 <h2 align="center">Hi, I'm Jayant Pachori 👋</h2>
 
