@@ -79,12 +79,7 @@ Air pollution is a major global issue affecting health and the environment. This
 
 https://github.com/jp-coder16/Capstone
 
-## 🌍 AI-Driven Smart AQI Prediction System
-✔ Deep Learning model for real-time AQI prediction  
-✔ CNN + Stacked LSTM + Adaptive Kalman Filter  
-✔ Integrated with IoT sensor data  
-
-🔗 https://github.com/jp-coder16/Capstone  
+ 
 
 ---
 
