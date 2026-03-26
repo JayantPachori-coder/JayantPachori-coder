@@ -64,6 +64,21 @@ Docker • Git • GitHub • Tableau • Figma
 
 # 🚀 Projects
 
+## 🌍 AQI Prediction System
+
+🚀 Capstone Project | AI + IoT based Air Quality Prediction & Monitoring
+
+📌 Overview
+
+Air pollution is a major global issue affecting health and the environment. This project focuses on building an intelligent AQI (Air Quality Index) prediction system that can:
+
+✔ Monitor real-time air quality
+✔ Predict future AQI levels
+✔ Provide insights using AI models
+✔ Help in early decision-making
+
+https://github.com/jp-coder16/Capstone
+
 ## 🌍 AI-Driven Smart AQI Prediction System
 ✔ Deep Learning model for real-time AQI prediction  
 ✔ CNN + Stacked LSTM + Adaptive Kalman Filter  
@@ -73,11 +88,11 @@ Docker • Git • GitHub • Tableau • Figma
 
 ---
 
-## 🔐 AI-Based Smart Lock System
-✔ Face recognition-based authentication  
-✔ Built using Raspberry Pi + OpenCV  
-✔ Secure intelligent access control  
+## Next-Gen Environment Monitoring System
 
+🚀 An IoT + AI powered smart system for real-time environmental monitoring and CO₂ prediction using Deep Learning & Explainable AI.
+
+https://github.com/JayantPachori-coder/R-D-research
 ---
 
 ## 📊 Virtual Hackathon Tracker (DBMS Project)
@@ -86,13 +101,15 @@ Docker • Git • GitHub • Tableau • Figma
 ✔ Applied normalization up to 3NF  
 ✔ Built ER diagrams & schema design  
 
+https://github.com/JayantPachori-coder/Virtual-Hackathon
+
 ---
 
 ## 📊 Student Performance Analytics Dashboard
 ✔ Interactive Tableau dashboard  
 ✔ Data-driven academic insights  
 
----
+https://github.com/JayantPachori-coder/Dashboard-Tableau
 
 # 🧠 Problem Solving
 
