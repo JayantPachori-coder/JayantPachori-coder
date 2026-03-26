@@ -113,8 +113,6 @@ https://github.com/JayantPachori-coder/Dashboard-Tableau
 
 # 🧠 Problem Solving
 
-# 🧠 Problem Solving
-
 <p align="center">
   <a href="https://leetcode.com/u/JayantPachori_2004/">
     <img src="https://img.shields.io/badge/LeetCode-JayantPachori_2004-orange?style=for-the-badge&logo=leetcode" />
