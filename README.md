@@ -1,11 +1,14 @@
-<img src="vincentiu-solomon-ln5drpv_ImI-unsplash.jpg" width="100%" alt="Intro Banner"/>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+I'm+Jayant+Pachori+👋;Aspiring+Data+Scientist;AI+%7C+ML+%7C+IoT+Enthusiast;Building+Intelligent+Systems" />
+</p>
 
-<h2 align="center">Hi, I'm Jayant Pachori 👋</h2>
+<h3 align="center">
+B.Tech Computer Science Student @ NIIT University  
+</h3>
 
 <p align="center">
-B.Tech Computer Science Student • Aspiring Data Scientist • AI & IoT Enthusiast
-<br/>
-Passionate about building intelligent systems using Machine Learning, Data Science, and IoT technologies.
+Passionate about designing and building <b>AI-powered intelligent systems</b> using Machine Learning, Data Science, and IoT 🚀
 </p>
 
 ---
@@ -13,109 +16,89 @@ Passionate about building intelligent systems using Machine Learning, Data Scien
 # 🧑‍💻 About Me
 
 🎓 B.Tech in Computer Science Engineering — NIIT University  
-📊 Aspiring Data Scientist interested in AI-powered systems  
-🤖 Exploring Machine Learning, Deep Learning, and IoT  
-💡 Passionate about building real-world intelligent solutions  
-
-I enjoy working on projects involving **data analysis, predictive modeling, smart systems, and intelligent applications**.
+📊 Aspiring Data Scientist with strong interest in AI & Analytics  
+🤖 Working on Machine Learning, Deep Learning & IoT Systems  
+💡 Focused on solving real-world problems using intelligent solutions  
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC8?style=for-the-badge&logo=r&logoColor=white)
+### 👨‍💻 Languages
+Python • Java • SQL • R  
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+### 📊 Data Science & ML
+Pandas • NumPy • Scikit-learn • TensorFlow  
 
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### ⚙️ Frameworks & Tools
+FastAPI • Flask • React • Docker  
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### 🗄️ Databases
+MySQL • MongoDB  
 
-### Tools & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+### 📈 Visualization & Tools
+Tableau • Git • GitHub • Figma  
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🌍 AI-Driven Smart AQI Prediction System
+✔ Deep Learning model for real-time AQI prediction  
+✔ Uses CNN + Stacked LSTM + Adaptive Kalman Filter  
+✔ Integrated with IoT sensor data  
 
-A deep learning based system that predicts **Air Quality Index (AQI)** using environmental sensor data.
-
-The model uses **CNN + Stacked LSTM + Adaptive Kalman Filter** to improve prediction accuracy and provide real-time environmental monitoring.
-
-**Tech Stack**
-
-Python • TensorFlow • Machine Learning • Deep Learning • IoT
-
-🔗 Repository  
-https://github.com/jp-coder16/Capstone
+🔗 https://github.com/jp-coder16/Capstone  
 
 ---
 
-## 🔐 AI Based Smart Lock System
-
-An IoT based **face recognition smart lock** that allows secure authentication using computer vision.
-
-The system uses **Raspberry Pi, camera modules, and AI face recognition models** to provide a secure and intelligent locking mechanism.
-
-**Tech Stack**
-
-Python • OpenCV • IoT • Raspberry Pi • Machine Learning
+## 🔐 AI-Based Smart Lock System
+✔ Face recognition-based authentication system  
+✔ Built using Raspberry Pi + OpenCV  
+✔ Secure and intelligent access control  
 
 ---
 
 ## 📊 Student Performance Analytics Dashboard
-
-A data visualization project built using **Tableau** to analyze and visualize student performance patterns.
-
-The dashboard provides insights on:
-
-• Academic performance trends  
-• Subject-wise analysis  
-• Student progress monitoring  
-
-**Tech Stack**
-
-Tableau • Data Visualization • Data Analysis
+✔ Interactive Tableau dashboard  
+✔ Insights on student trends & performance  
+✔ Data-driven academic monitoring  
 
 ---
 
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jp-coder16&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-coder16&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jp-coder16)
+## ➕ More Projects Coming Soon...
+✨ Working on AI dashboards, Agentic AI systems & full-stack apps  
 
 ---
 
-# 📫 Connect With Me
+# 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jp-coder16)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jp-coder16&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jp-coder16&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-coder16&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ From [Jayant Pachori](https://github.com/jp-coder16)
+# 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/jp-coder16">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>“Building intelligent systems that make real-world impact.”</b>
+</p>
