@@ -125,7 +125,7 @@ Docker • Git • GitHub • Tableau • Figma
 # 🌐 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/jayant-pachori-44b763275">
+  <a href="https://www.linkedin.com/in/jayant-pachori-44b763275">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/jp-coder16">
@@ -135,6 +135,8 @@ Docker • Git • GitHub • Tableau • Figma
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
+
+---
 
 ---
 
