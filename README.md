@@ -16,28 +16,42 @@ Passionate about designing and building <b>AI-powered intelligent systems</b> us
 # 🧑‍💻 About Me
 
 🎓 B.Tech in Computer Science Engineering — NIIT University  
-📊 Aspiring Data Scientist with strong interest in AI & Analytics  
-🤖 Working on Machine Learning, Deep Learning & IoT Systems  
-💡 Focused on solving real-world problems using intelligent solutions  
+📊 Aspiring Data Scientist with strong interest in AI, ML & Analytics  
+🤖 Building intelligent systems using AI + IoT + Data  
+💡 Focused on solving real-world problems with scalable solutions  
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 Python • Java • SQL • R  
 
-### 📊 Data Science & ML
-Pandas • NumPy • Scikit-learn • TensorFlow  
+### 📊 Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • TensorFlow • OpenCV  
 
-### ⚙️ Frameworks & Tools
-FastAPI • Flask • React • Docker  
+### ⚙️ Frameworks & Development
+FastAPI • Flask • React • JavaFX • Flutter  
 
 ### 🗄️ Databases
 MySQL • MongoDB  
 
-### 📈 Visualization & Tools
-Tableau • Git • GitHub • Figma  
+### ☁️ Tools & Technologies
+Docker • Git • GitHub • Tableau • Figma  
+
+---
+
+# 📚 Relevant Coursework
+
+✔ Data Structures & Algorithms (DSA)  
+✔ Database Management Systems (DBMS)  
+✔ Object-Oriented Programming (OOP)  
+✔ Operating Systems  
+✔ Computer Networks  
+✔ Discrete Mathematics  
+✔ Theory of Computation  
+✔ Digital Image Processing  
+✔ Machine Learning (Self-Learning)  
 
 ---
 
@@ -45,7 +59,7 @@ Tableau • Git • GitHub • Figma
 
 ## 🌍 AI-Driven Smart AQI Prediction System
 ✔ Deep Learning model for real-time AQI prediction  
-✔ Uses CNN + Stacked LSTM + Adaptive Kalman Filter  
+✔ CNN + Stacked LSTM + Adaptive Kalman Filter  
 ✔ Integrated with IoT sensor data  
 
 🔗 https://github.com/jp-coder16/Capstone  
@@ -53,25 +67,50 @@ Tableau • Git • GitHub • Figma
 ---
 
 ## 🔐 AI-Based Smart Lock System
-✔ Face recognition-based authentication system  
+✔ Face recognition-based authentication  
 ✔ Built using Raspberry Pi + OpenCV  
-✔ Secure and intelligent access control  
+✔ Secure intelligent access control  
+
+---
+
+## 📊 Virtual Hackathon Tracker (DBMS Project)
+✔ Designed relational database with 7+ tables & 10+ relationships  
+✔ Implemented SQL queries with optimized data retrieval  
+✔ Applied normalization up to 3NF  
+✔ Built ER diagrams & schema design  
 
 ---
 
 ## 📊 Student Performance Analytics Dashboard
 ✔ Interactive Tableau dashboard  
-✔ Insights on student trends & performance  
-✔ Data-driven academic monitoring  
+✔ Data-driven academic insights  
 
 ---
 
-## ➕ More Projects Coming Soon...
-✨ Working on AI dashboards, Agentic AI systems & full-stack apps  
+# 🧠 Problem Solving
+
+# 🧠 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/JayantPachori_2004/">
+    <img src="https://img.shields.io/badge/LeetCode-JayantPachori_2004-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://neetcode.io/roadmap">
+    <img src="https://img.shields.io/badge/NeetCode-DSA%20Roadmap-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/JayantPachori_2004?theme=tokyonight&font=baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  📌 Following NeetCode Roadmap for structured DSA preparation  
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub & Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jp-coder16&show_icons=true&theme=tokyonight" />
@@ -86,13 +125,13 @@ Tableau • Git • GitHub • Figma
 # 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/jayant-pachori-44b763275">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/jp-coder16">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:Jayantpachori16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -100,5 +139,5 @@ Tableau • Git • GitHub • Figma
 ---
 
 <p align="center">
-⭐ <b>“Building intelligent systems that make real-world impact.”</b>
+⭐ <b>“Building intelligent systems that create real-world impact.”</b>
 </p>
