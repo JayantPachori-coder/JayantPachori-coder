@@ -43,22 +43,22 @@ Docker • Git • GitHub • Tableau • Figma
 
 # 📚 Relevant Coursework & Skills
 
-✔ Data Structures & Algorithms (DSA)     ███████░░░ 70%  
-✔ Database Management Systems (DBMS)     ████████░░ 80%  
-✔ Object-Oriented Programming (OOP)      ███████░░░ 70%  
-✔ Operating Systems (Workshop Practice)  ██████░░░░ 60%  
-✔ Predictive Modeling                   █████░░░░░ 50%  
-✔ Machine Learning (Self)               █████░░░░░ 50%  
-✔ Deep Learning (Self)                  ███░░░░░░░ 30%  
-✔ Artificial Intelligence               █████░░░░░ 50%  
+✔ Data Structures & Algorithms (DSA)     
+✔ Database Management Systems (DBMS)      
+✔ Object-Oriented Programming (OOP)      
+✔ Operating Systems (Workshop Practice) 
+✔ Predictive Modeling                   
+✔ Machine Learning (Self)              
+✔ Deep Learning (Self)                
+✔ Artificial Intelligence               
 
 ---
 
 # 🌐 Web Development Skills
 
-✔ HTML                                 ████████░░ 80%  
-✔ CSS                                  ███████░░░ 70%  
-✔ JavaScript                           ██████░░░░ 60%  
+✔ HTML                                
+✔ CSS                                 
+✔ JavaScript                       
 
 ---
 
